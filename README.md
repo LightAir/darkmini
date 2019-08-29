@@ -15,7 +15,7 @@ based systems. This is a clean, dark and minimal theme for it.
 
  3. Clone this repository into the `themes` directory.
 
- 4. To enable the theme add `include themes/darkmini/theme-mini.conf` at the end of refind.conf or add `include themes/darkmini/theme-mini.conf`
+ 4. To enable the theme add `include themes/darkmini/theme-mini.conf` at the end of refind.conf or add `include themes/darkmini/theme.conf`
  5. Set option `banner` in theme file for select background image
     Ex: `banner themes/darkmini/bg/ubuntu_style.png  `
     
