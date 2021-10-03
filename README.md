@@ -7,7 +7,7 @@ based systems. This is a clean, dark and minimal theme for it.
 
 ### Usage
 
- 1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind`
+ 1. Locate your refind EFI directory. This is commonly `/boot/efi/EFI/refind`
     though it will depend on where you mount your ESP and where rEFInd is
     installed. `fdisk -l` and `mount` may help.
 
