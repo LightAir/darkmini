@@ -21,9 +21,16 @@ based systems. This is a clean, dark and minimal theme for it.
     
 ## theme-mini
 ![screenshot](screenshots/screenshot_001.png "screenshot")
+background.png
+
 ![screenshot](screenshots/screenshot_002.png "screenshot")
+background2.png
+
 ![screenshot](screenshots/screenshot_003.png "screenshot")
+ubuntu_style.png
+
 ![screenshot](screenshots/screenshot_004.png "screenshot")
+ubuntu_two.png
 
 ## theme
 ![screenshot](screenshots/screenshot_005.png "screenshot")
