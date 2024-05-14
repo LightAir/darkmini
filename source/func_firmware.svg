@@ -9,7 +9,7 @@
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="func_firmware.svg"
-   inkscape:export-filename="/home/la/projects/darkmini/icons/func_firmware.png"
+   inkscape:export-filename="../icons/func_firmware.png"
    inkscape:export-xdpi="36"
    inkscape:export-ydpi="36"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -34,8 +34,8 @@
      inkscape:document-units="px"
      inkscape:current-layer="g26"
      showgrid="false"
-     inkscape:window-width="1332"
-     inkscape:window-height="699"
+     inkscape:window-width="1888"
+     inkscape:window-height="1023"
      inkscape:window-x="74"
      inkscape:window-y="63"
      inkscape:window-maximized="0"
@@ -198,11 +198,14 @@
        id="g26"
        style="fill:#ecf0f1;fill-opacity:0.99215686">
       <path
-         style="fill:#ecf0f1;fill-opacity:0.99215686;stroke-width:0.28444445"
+         style="fill:#ecf0f1;fill-opacity:1;stroke-width:0.28444445"
          d="m 214.20089,115.81287 c 0,0 0.0899,-7.34083 0,-10.09777 h -9.95556 v -9.102226 l -9.24787,2e-6 v -5.12 l 9.24787,-2e-6 c 0,-1.706667 0,-3.413333 0,-5.12 l -9.24787,2e-6 0,-5.119999 9.24787,-3e-6 c 0,-1.706667 0,-3.413333 0,-5.12 l -9.24787,3e-6 0,-5.119997 9.24787,0 c 0,0 0.004,-6.609774 0,-9.102225 4.20567,0 9.95556,-3e-6 9.95556,-3e-6 l 0,-10.081998 5.12,0 0,10.081998 h 5.12 l 0,-10.081998 h 5.12 l 0,10.081998 h 5.12 l 0,-10.081998 h 5.12 l 0,10.082001 c 0,0 5.98045,0 9.95556,0 v 9.102219 l 9.23418,6e-6 0,5.119997 -9.23418,-3e-6 v 5.12 l 9.23418,3e-6 0,5.119999 -9.23418,-2e-6 c 0,0 0,3.413333 0,5.12 l 9.23418,2e-6 v 5.12 l -9.23418,-2e-6 v 9.102226 c -5.26151,0 -9.95556,0 -9.95556,0 v 10.09777 h -5.12 V 105.7151 h -5.12 v 10.09777 h -5.12 V 105.7151 h -5.12 v 10.09777 z m 30.29405,-15.38245 c -2.9e-4,-10.93698 -4.8e-4,-22.196824 0,-33.133806 -12.11655,0.01163 -22.68398,0.02392 -35.00179,0 0.0211,11.044607 0.01,22.0892 0,33.133806 z m -30.29405,-3.817544 c 0.22435,-8.533733 0.0988,-17.065588 0,-25.599996 5.12,0 19.12714,0.0041 25.6,0 0,0 -0.0856,17.866028 0,25.599996 z m 20.48,-5.12 V 76.132877 h -15.36 c 0.14363,4.866544 0,10.492078 0,15.359999 z"
          id="path28"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:export-filename="../icons/path28.png"
+         inkscape:export-xdpi="36"
+         inkscape:export-ydpi="36" />
     </g>
   </g>
 </svg>
