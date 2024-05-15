@@ -5,6 +5,7 @@ Dark theme for rEFInd
 [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI
 based systems. This is a clean, dark and minimal theme for it.
 
+
 ### Usage
 
  1. Locate your refind EFI directory. This is commonly `/boot/efi/EFI/refind`
@@ -18,7 +19,7 @@ based systems. This is a clean, dark and minimal theme for it.
  4. To enable the theme add `include themes/darkmini/theme-mini.conf` at the end of refind.conf or add `include themes/darkmini/theme.conf`
  5. Set option `banner` in theme file for select background image
     Ex: `banner themes/darkmini/bg/ubuntu_style.png  `
-    
+
 ## theme-mini
 ![screenshot](screenshots/screenshot_001.png "screenshot")
 background.png

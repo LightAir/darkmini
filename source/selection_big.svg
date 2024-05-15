@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="110mm"
-   height="110mm"
-   viewBox="0 0 389.76378 389.7638"
+   width="400"
+   height="400"
+   viewBox="0 0 375.00001 375.00003"
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="selection_big.svg"
-   inkscape:export-filename="/home/rain/minidark/selection_big.png"
-   inkscape:export-xdpi="33.250908"
-   inkscape:export-ydpi="33.250908"
+   inkscape:export-filename="../selection_big.png"
+   inkscape:export-xdpi="34.560001"
+   inkscape:export-ydpi="34.560001"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,29 +28,47 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9814785"
-     inkscape:cx="253.69888"
-     inkscape:cy="19.867985"
+     inkscape:zoom="1.962957"
+     inkscape:cx="262.86872"
+     inkscape:cy="294.70844"
      inkscape:document-units="px"
      inkscape:current-layer="g6780"
      showgrid="false"
-     inkscape:window-width="1332"
-     inkscape:window-height="714"
-     inkscape:window-x="1228"
-     inkscape:window-y="36"
-     inkscape:window-maximized="0"
-     units="mm"
+     inkscape:window-width="2486"
+     inkscape:window-height="1376"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-others="true"
+     inkscape:snap-others="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     width="400px"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="false">
+    <sodipodi:guide
+       position="0,56.250003"
+       orientation="0,1"
+       id="guide925"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="187.50001,375.00002"
+       orientation="-1,0"
+       id="guide927"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -106,16 +124,16 @@
                        transform="matrix(1.2913931,0,0,1.2913931,-133.74852,-161.46227)">
                       <g
                          id="g6772"
-                         transform="matrix(0.51310539,0,0,0.51310539,235.19485,365.20655)">
+                         transform="matrix(0.51310539,0,0,0.51310539,229.47864,347.47511)">
                         <rect
-                           style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:16.42200089;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                           style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:12.3647;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                            id="rect6778"
-                           width="41.130505"
-                           height="41.130505"
-                           x="734.54492"
-                           y="265.18536"
-                           ry="2.5510716"
-                           transform="matrix(0.85958925,0.51098564,-0.85958925,0.51098564,0,0)" />
+                           width="30.968716"
+                           height="30.968716"
+                           x="726.41766"
+                           y="253.58862"
+                           ry="1.9207984"
+                           transform="matrix(0.85328183,0.52145001,-0.85328183,0.52145001,0,0)" />
                       </g>
                     </g>
                   </g>

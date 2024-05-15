@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="110mm"
-   height="110mm"
-   viewBox="0 0 389.76378 389.7638"
+   width="400"
+   height="400"
+   viewBox="0 0 375.00001 375.00003"
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="os_pclinuxos.svg"
    inkscape:export-filename="../icons/os_pclinuxos.png"
-   inkscape:export-xdpi="29.556362"
-   inkscape:export-ydpi="29.556362"
+   inkscape:export-xdpi="30.719999"
+   inkscape:export-ydpi="30.719999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,29 +28,76 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9706946"
-     inkscape:cx="268.87962"
-     inkscape:cy="120.01715"
+     inkscape:zoom="1.2528662"
+     inkscape:cx="236.25826"
+     inkscape:cy="146.46416"
      inkscape:document-units="px"
-     inkscape:current-layer="g4179"
+     inkscape:current-layer="g838"
      showgrid="false"
-     inkscape:window-width="1946"
-     inkscape:window-height="1056"
-     inkscape:window-x="558"
-     inkscape:window-y="190"
+     inkscape:window-width="1942"
+     inkscape:window-height="1082"
+     inkscape:window-x="767"
+     inkscape:window-y="281"
      inkscape:window-maximized="0"
-     units="mm"
+     units="px"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-others="true"
+     inkscape:snap-others="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     width="400px"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="false">
+    <sodipodi:guide
+       position="93.750005,375.00002"
+       orientation="-1,0"
+       id="guide839"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="281.25001,375.00002"
+       orientation="-1,0"
+       id="guide841"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,281.25001"
+       orientation="0,1"
+       id="guide843"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,93.750005"
+       orientation="0,1"
+       id="guide845"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="117.18751,187.50001"
+       orientation="-1,0"
+       id="guide15396"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="257.81251,187.50001"
+       orientation="-1,0"
+       id="guide15398"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -102,25 +149,38 @@
                      transform="translate(105.76257,-1.6247732)"
                      id="g6445">
                     <g
-                       id="g4179"
-                       transform="matrix(0.55334393,0,0,0.55334393,195.33126,229.00608)">
-                      <path
-                         transform="translate(242.4372,317.83039)"
-                         id="path4177"
-                         d="M 194.88281,18.787109 A 176.09465,176.09465 0 0 0 18.787109,194.88281 176.09465,176.09465 0 0 0 194.88281,370.97656 176.09465,176.09465 0 0 0 370.97656,194.88281 176.09465,176.09465 0 0 0 194.88281,18.787109 Z m 0,33.923829 A 142.17166,142.17166 0 0 1 337.05273,194.88281 142.17166,142.17166 0 0 1 194.88281,337.05273 142.17166,142.17166 0 0 1 52.710938,194.88281 142.17166,142.17166 0 0 1 194.88281,52.710938 Z"
-                         style="fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:10.30000019;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                         inkscape:connector-curvature="0" />
-                      <text
-                         id="text4182"
-                         y="525.50873"
-                         x="305.29395"
-                         style="font-style:normal;font-weight:normal;font-size:9.27291px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:0.772743px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                         xml:space="preserve"><tspan
-                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.092px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:-3.86371px;word-spacing:0px;fill:#ecf0f1;stroke-width:0.772743px"
-                           y="525.50873"
-                           x="305.29395"
-                           id="tspan4184"
-                           sodipodi:role="line">PCLinuxOS</tspan></text>
+                       id="g6415"
+                       transform="matrix(3.0715506,0,0,3.0715506,-521.15168,-1035.6235)">
+                      <g
+                         transform="translate(126.06579,-105.54595)"
+                         id="g4016">
+                        <g
+                           id="g4182"
+                           transform="matrix(0.61815127,0,0,0.61815127,205.2279,224.79962)" />
+                        <g
+                           id="g838"
+                           style="display:inline;opacity:0.99;fill:#ffffff;fill-opacity:1"
+                           transform="matrix(0.17332743,0,0,0.17332744,107.77937,518.36484)">
+                          <path
+                             transform="translate(242.4372,317.83039)"
+                             id="path4177"
+                             d="M 194.88281,18.787109 A 176.09465,176.09465 0 0 0 18.787109,194.88281 176.09465,176.09465 0 0 0 194.88281,370.97656 176.09465,176.09465 0 0 0 370.97656,194.88281 176.09465,176.09465 0 0 0 194.88281,18.787109 Z m 0,33.923829 A 142.17166,142.17166 0 0 1 337.05273,194.88281 142.17166,142.17166 0 0 1 194.88281,337.05273 142.17166,142.17166 0 0 1 52.710938,194.88281 142.17166,142.17166 0 0 1 194.88281,52.710938 Z"
+                             style="fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:10.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                             inkscape:connector-curvature="0" />
+                          <text
+                             id="text4182"
+                             y="523.927"
+                             x="307.97736"
+                             style="font-style:normal;font-weight:normal;font-size:9.84746px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:0.82062px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                             xml:space="preserve"
+                             transform="scale(0.97672733,1.0238272)"><tspan
+                               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.4433px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:-4.1031px;word-spacing:0px;fill:#ecf0f1;stroke-width:0.82062px"
+                               y="523.927"
+                               x="307.97736"
+                               id="tspan4184"
+                               sodipodi:role="line">PCLinuxOS</tspan></text>
+                        </g>
+                      </g>
                     </g>
                   </g>
                 </g>
