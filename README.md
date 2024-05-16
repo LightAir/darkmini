@@ -35,3 +35,13 @@ ubuntu_two.png
 
 ## theme
 ![screenshot](screenshots/screenshot_005.png "screenshot")
+
+## example of all icons
+
+![screenshot](screenshots/screenshot_006.png "screenshot")
+![screenshot](screenshots/screenshot_007.png "screenshot")
+![screenshot](screenshots/screenshot_008.png "screenshot")
+![screenshot](screenshots/screenshot_009.png "screenshot")
+![screenshot](screenshots/screenshot_0010.png "screenshot")
+![screenshot](screenshots/screenshot_0011.png "screenshot")
+![screenshot](screenshots/screenshot_0013.png "screenshot")
