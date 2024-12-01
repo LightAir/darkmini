@@ -32,12 +32,12 @@
      inkscape:cx="288.96833"
      inkscape:cy="230.83603"
      inkscape:document-units="px"
-     inkscape:current-layer="g4016"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1942"
      inkscape:window-height="1082"
-     inkscape:window-x="778"
-     inkscape:window-y="350"
+     inkscape:window-x="467"
+     inkscape:window-y="306"
      inkscape:window-maximized="0"
      units="px"
      inkscape:showpageshadow="false"
@@ -109,67 +109,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="opacity:0.96"
-     transform="translate(-39.167521,88.250195)">
-    <path
-       style="fill:#000000"
-       d=""
-       id="path4134"
-       inkscape:connector-curvature="0" />
-    <g
-       transform="translate(-141.01382,-425.49872)"
-       style="display:inline"
-       inkscape:label="debian vector"
-       id="layer3">
-      <g
-         id="g4573"
-         transform="translate(131.00657,-3.8976736)">
-        <g
-           id="g4627"
-           style="opacity:0.99">
-          <g
-             id="g4740"
-             transform="translate(-34.291185,268.4348)">
-            <g
-               transform="translate(380.29592,62.962549)"
-               id="g4109">
-              <g
-                 transform="matrix(0.77230011,0,0,0.77230011,-239.76484,-6.9998595)"
-                 style="fill:#ffffff;fill-opacity:1"
-                 id="g4077">
-                <g
-                   id="layer1-5"
-                   inkscape:label="Layer 1"
-                   transform="matrix(1.2948334,0,0,1.2948334,-524.75052,-387.7468)">
-                  <g
-                     transform="translate(105.76257,-1.6247732)"
-                     id="g6445">
-                    <g
-                       id="g6415"
-                       transform="matrix(3.0715506,0,0,3.0715506,-521.15168,-1035.6235)">
-                      <g
-                         transform="translate(126.06579,-105.54595)"
-                         id="g4016">
-                        <g
-                           id="g4182"
-                           transform="matrix(0.61815127,0,0,0.61815127,205.2279,224.79962)" />
-                        <path
-                           style="fill:#ecf0f1;fill-opacity:1;stroke:#000000;stroke-width:0.301176px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                           d="m 182.98547,576.70511 -29.71384,30.52683 29.71384,30.52684 -8.09413,-30.52684 z"
-                           id="path1060" />
-                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+  <path
+     style="display:inline;opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:#000000;stroke-width:0.301176px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 182.98547,576.70511 -29.71384,30.52683 29.71384,30.52684 -8.09413,-30.52684 z"
+     id="path1060"
+     transform="matrix(3.07155,0,0,3.07155,-376.371,-1677.65)" />
 </svg>

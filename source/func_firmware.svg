@@ -29,10 +29,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88591022"
-     inkscape:cx="214.46869"
+     inkscape:cx="216.72625"
      inkscape:cy="52.488389"
      inkscape:document-units="px"
-     inkscape:current-layer="g4016"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1942"
      inkscape:window-height="1082"
@@ -95,72 +95,14 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="opacity:0.96"
-     transform="translate(-39.167521,88.250195)">
-    <path
-       style="fill:#000000"
-       d=""
-       id="path4134"
-       inkscape:connector-curvature="0" />
-    <g
-       transform="translate(-141.01382,-425.49872)"
-       style="display:inline"
-       inkscape:label="debian vector"
-       id="layer3">
-      <g
-         id="g4573"
-         transform="translate(131.00657,-3.8976736)">
-        <g
-           id="g4627"
-           style="opacity:0.99">
-          <g
-             id="g4740"
-             transform="translate(-34.291185,268.4348)">
-            <g
-               transform="translate(380.29592,62.962549)"
-               id="g4109">
-              <g
-                 transform="matrix(0.77230011,0,0,0.77230011,-239.76484,-6.9998595)"
-                 style="fill:#ffffff;fill-opacity:1"
-                 id="g4077">
-                <g
-                   id="layer1-5"
-                   inkscape:label="Layer 1"
-                   transform="matrix(1.2948334,0,0,1.2948334,-524.75052,-387.7468)">
-                  <g
-                     transform="translate(105.76257,-1.6247732)"
-                     id="g6445">
-                    <g
-                       id="g6415"
-                       transform="matrix(3.0715506,0,0,3.0715506,-521.15168,-1035.6235)">
-                      <g
-                         transform="translate(126.06579,-105.54595)"
-                         id="g4016">
-                        <g
-                           id="g4182"
-                           transform="matrix(0.61815127,0,0,0.61815127,205.2279,224.79962)" />
-                        <path
-                           style="opacity:0.99;fill:#ecf0f1;fill-opacity:1;stroke-width:0.29849"
-                           d="m 170.1548,640.80619 c 0,0 0.0941,-7.7039 0,-10.59717 h -10.44643 v -9.55238 l -9.70386,4e-5 v -5.37321 h 9.70386 c 0,-1.79108 0,-3.58214 0,-5.37322 h -9.70386 v -5.37321 h 9.70386 c 0,-1.79106 0,-3.58214 0,-5.3732 h -9.70386 v -5.37321 h 9.70386 c 0,0 0.003,-6.93667 0,-9.55235 4.41305,0 10.44643,0 10.44643,0 v -10.58059 h 5.37246 v 10.58059 h 5.37245 v -10.58059 h 5.37246 v 10.58059 h 5.37245 v -10.58059 h 5.37246 v 10.58059 c 0,0 6.2753,0 10.44643,0 v 9.55235 h 9.6895 v 5.37321 h -9.6895 v 5.3732 h 9.6895 v 5.37321 h -9.6895 c 0,0 0,3.58214 0,5.37322 h 9.6895 v 5.37321 l -9.6895,-4e-5 v 9.55238 c -5.52092,0 -10.44643,0 -10.44643,0 v 10.59717 h -5.37246 v -10.59717 h -5.37245 v 10.59717 h -5.37246 v -10.59717 h -5.37245 v 10.59717 z M 201.94259,624.663 c -3.2e-4,-11.47785 -5.3e-4,-23.29456 0,-34.77242 -12.71399,0.0132 -23.80248,0.0241 -36.72766,0 0.0206,11.5908 0.01,23.18161 0,34.77242 z m -31.78779,-4.00632 c 0.23549,-8.95577 0.10386,-17.90957 0,-26.86605 5.37246,0 20.07026,0.004 26.86228,0 0,0 -0.0898,18.74959 0,26.86605 z m 21.48982,-5.37321 v -16.11963 h -16.11736 c 0.15051,5.10722 0,11.01096 0,16.11963 z"
-                           id="path28"
-                           inkscape:connector-curvature="0"
-                           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-                           inkscape:export-filename="../icons/path28.png"
-                           inkscape:export-xdpi="36"
-                           inkscape:export-ydpi="36" />
-                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+  <path
+     style="opacity:1;display:inline;fill:#ecf0f1;fill-opacity:1;stroke-width:0.916827"
+     d="m 185.43519,202.37484 c 0,0 0.28903,-23.66292 0,-32.54975 h -32.08674 v -29.34062 l -29.8059,1.3e-4 v -16.50409 h 29.8059 c 0,-5.50139 0,-11.00272 0,-16.50412 h -29.8059 V 90.972308 h 29.8059 c 0,-5.501331 0,-11.002724 0,-16.504056 h -29.8059 V 57.964166 h 29.8059 c 0,0 0.009,-21.306333 0,-29.340527 13.55491,0 32.08674,0 32.08674,0 V -3.8751781 h 16.50178 V 28.623639 h 16.50175 V -3.8751781 h 16.50179 V 28.623639 h 16.50175 V -3.8751781 h 16.50178 V 28.623639 c 0,0 19.2749,0 32.08674,0 v 29.340527 h 29.76179 v 16.504086 h -29.76179 v 16.504056 h 29.76179 v 16.504082 h -29.76179 c 0,0 0,11.00273 0,16.50412 h 29.76179 v 16.50409 l -29.76179,-1.3e-4 v 29.34062 c -16.95779,0 -32.08674,0 -32.08674,0 v 32.54975 h -16.50178 v -32.54975 h -16.50175 v 32.54975 h -16.50179 v -32.54975 h -16.50175 v 32.54975 z m 97.6378,-49.58463 c -9.8e-4,-35.25479 -0.002,-71.550417 0,-106.805245 -39.05166,0.04054 -73.11052,0.07402 -112.81086,0 0.0633,35.601729 0.0307,71.203485 0,106.805245 z m -97.6378,-12.30561 c 0.72332,-27.5081 0.31901,-55.010153 0,-82.520434 16.50178,0 61.64682,0.01229 82.50885,0 0,0 -0.27582,57.590314 0,82.520434 z m 66.00707,-16.50409 V 74.468252 h -49.50529 c 0.4623,15.687085 0,33.820718 0,49.512258 z"
+     id="path28"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+     inkscape:export-filename="../icons/path28.png"
+     inkscape:export-xdpi="36"
+     inkscape:export-ydpi="36"
+     transform="translate(-39.1675, 88.2502)" />
 </svg>

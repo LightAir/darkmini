@@ -29,14 +29,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2528662"
-     inkscape:cx="236.25826"
+     inkscape:cx="237.05644"
      inkscape:cy="146.46416"
      inkscape:document-units="px"
-     inkscape:current-layer="g838"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1942"
      inkscape:window-height="1082"
-     inkscape:window-x="767"
+     inkscape:window-x="618"
      inkscape:window-y="281"
      inkscape:window-maximized="0"
      units="px"
@@ -109,86 +109,22 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="opacity:0.96"
-     transform="translate(-39.167521,88.250195)">
-    <path
-       style="fill:#000000"
-       d=""
-       id="path4134"
-       inkscape:connector-curvature="0" />
-    <g
-       transform="translate(-141.01382,-425.49872)"
-       style="display:inline"
-       inkscape:label="debian vector"
-       id="layer3">
-      <g
-         id="g4573"
-         transform="translate(131.00657,-3.8976736)">
-        <g
-           id="g4627"
-           style="opacity:0.99">
-          <g
-             id="g4740"
-             transform="translate(-34.291185,268.4348)">
-            <g
-               transform="translate(380.29592,62.962549)"
-               id="g4109">
-              <g
-                 transform="matrix(0.77230011,0,0,0.77230011,-239.76484,-6.9998595)"
-                 style="fill:#ffffff;fill-opacity:1"
-                 id="g4077">
-                <g
-                   id="layer1-5"
-                   inkscape:label="Layer 1"
-                   transform="matrix(1.2948334,0,0,1.2948334,-524.75052,-387.7468)">
-                  <g
-                     transform="translate(105.76257,-1.6247732)"
-                     id="g6445">
-                    <g
-                       id="g6415"
-                       transform="matrix(3.0715506,0,0,3.0715506,-521.15168,-1035.6235)">
-                      <g
-                         transform="translate(126.06579,-105.54595)"
-                         id="g4016">
-                        <g
-                           id="g4182"
-                           transform="matrix(0.61815127,0,0,0.61815127,205.2279,224.79962)" />
-                        <g
-                           id="g838"
-                           style="display:inline;opacity:0.99;fill:#ffffff;fill-opacity:1"
-                           transform="matrix(0.17332743,0,0,0.17332744,107.77937,518.36484)">
-                          <path
-                             transform="translate(242.4372,317.83039)"
-                             id="path4177"
-                             d="M 194.88281,18.787109 A 176.09465,176.09465 0 0 0 18.787109,194.88281 176.09465,176.09465 0 0 0 194.88281,370.97656 176.09465,176.09465 0 0 0 370.97656,194.88281 176.09465,176.09465 0 0 0 194.88281,18.787109 Z m 0,33.923829 A 142.17166,142.17166 0 0 1 337.05273,194.88281 142.17166,142.17166 0 0 1 194.88281,337.05273 142.17166,142.17166 0 0 1 52.710938,194.88281 142.17166,142.17166 0 0 1 194.88281,52.710938 Z"
-                             style="fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:10.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                             inkscape:connector-curvature="0" />
-                          <text
-                             id="text4182"
-                             y="523.927"
-                             x="307.97736"
-                             style="font-style:normal;font-weight:normal;font-size:9.84746px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:0.82062px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                             xml:space="preserve"
-                             transform="scale(0.97672733,1.0238272)"><tspan
-                               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.4433px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:-4.1031px;word-spacing:0px;fill:#ecf0f1;stroke-width:0.82062px"
-                               y="523.927"
-                               x="307.97736"
-                               id="tspan4184"
-                               sodipodi:role="line">PCLinuxOS</tspan></text>
-                        </g>
-                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+  <path
+     transform="matrix(0.532383,0,0,0.532383,83.7485,83.7495)"
+     id="path4177"
+     d="M 194.88281,18.787109 A 176.09465,176.09465 0 0 0 18.787109,194.88281 176.09465,176.09465 0 0 0 194.88281,370.97656 176.09465,176.09465 0 0 0 370.97656,194.88281 176.09465,176.09465 0 0 0 194.88281,18.787109 Z m 0,33.923829 A 142.17166,142.17166 0 0 1 337.05273,194.88281 142.17166,142.17166 0 0 1 194.88281,337.05273 142.17166,142.17166 0 0 1 52.710938,194.88281 142.17166,142.17166 0 0 1 194.88281,52.710938 Z"
+     style="display:inline;opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:10.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <text
+     id="text4182"
+     y="523.927"
+     x="307.97736"
+     style="font-style:normal;font-weight:normal;font-size:9.84746px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:0.82062px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     transform="matrix(0.519995,0,0,0.545068,-45.3223,-85.4608)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.4433px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:-4.1031px;word-spacing:0px;fill:#ecf0f1;stroke-width:0.82062px"
+       y="523.927"
+       x="307.97736"
+       id="tspan4184"
+       sodipodi:role="line">PCLinuxOS</tspan></text>
 </svg>
