@@ -32,7 +32,7 @@
      inkscape:cx="94.817734"
      inkscape:cy="240.99508"
      inkscape:document-units="px"
-     inkscape:current-layer="g4185"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1942"
      inkscape:window-height="1082"
@@ -92,100 +92,40 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="opacity:0.96"
-     transform="translate(-39.167521,88.250195)">
-    <path
-       style="fill:#000000"
-       d=""
-       id="path4134"
-       inkscape:connector-curvature="0" />
-    <g
-       transform="translate(-141.01382,-425.49872)"
-       style="display:inline"
-       inkscape:label="debian vector"
-       id="layer3">
-      <g
-         id="g4573"
-         transform="translate(131.00657,-3.8976736)">
-        <g
-           id="g4627"
-           style="opacity:0.99">
-          <g
-             id="g4740"
-             transform="translate(-34.291185,268.4348)">
-            <g
-               transform="translate(380.29592,62.962549)"
-               id="g4109">
-              <g
-                 transform="matrix(0.77230011,0,0,0.77230011,-239.76484,-6.9998595)"
-                 style="fill:#ffffff;fill-opacity:1"
-                 id="g4077">
-                <g
-                   id="layer1-5"
-                   inkscape:label="Layer 1"
-                   transform="matrix(1.2948334,0,0,1.2948334,-524.75052,-387.7468)">
-                  <g
-                     transform="translate(105.76257,-1.6247732)"
-                     id="g6445">
-                    <g
-                       id="g6415"
-                       transform="matrix(3.0715506,0,0,3.0715506,-521.15168,-1035.6235)">
-                      <g
-                         transform="translate(126.06579,-105.54595)"
-                         id="g4016">
-                        <g
-                           id="g4182"
-                           transform="matrix(0.61815127,0,0,0.61815127,205.2279,224.79962)" />
-                        <g
-                           id="g4185"
-                           transform="matrix(0.2679142,0,0,0.30387265,69.888163,450.59662)"
-                           style="display:inline;opacity:0.99;fill:#ffffff;fill-opacity:1">
-                          <rect
-                             ry="2.3223901"
-                             y="415.02014"
-                             x="429.93182"
-                             height="93.747299"
-                             width="108.34695"
-                             id="rect4177"
-                             style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:7.11;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                          <rect
-                             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.11;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                             id="rect4179"
-                             width="108.34737"
-                             height="93.747299"
-                             x="310.42978"
-                             y="415.02014"
-                             ry="2.3223901" />
-                          <rect
-                             style="opacity:1;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:7.11;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                             id="rect4181"
-                             width="108.34737"
-                             height="93.747299"
-                             x="429.93182"
-                             y="522.15991"
-                             ry="2.3223901" />
-                          <rect
-                             ry="2.3223901"
-                             y="522.15991"
-                             x="310.42978"
-                             height="93.747299"
-                             width="108.34737"
-                             id="rect4183"
-                             style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:7.11;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                        </g>
-                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+  <rect
+     ry="2.3223901"
+     y="415.02014"
+     x="429.93182"
+     height="93.747299"
+     width="108.34695"
+     id="rect4177"
+     style="opacity:1;display:inline;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:7.11;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0.822909 0 0 0.933363 -161.707 -293.612)" />
+  <rect
+     style="opacity:1;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.11;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4179"
+     width="108.34737"
+     height="93.747299"
+     x="310.42978"
+     y="415.02014"
+     ry="2.3223901"
+     transform="matrix(0.822909 0 0 0.933363 -161.707 -293.612)" />
+  <rect
+     style="opacity:1;display:inline;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:7.11;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4181"
+     width="108.34737"
+     height="93.747299"
+     x="429.93182"
+     y="522.15991"
+     ry="2.3223901"
+     transform="matrix(0.822909 0 0 0.933363 -161.707 -293.612)" />
+  <rect
+     ry="2.3223901"
+     y="522.15991"
+     x="310.42978"
+     height="93.747299"
+     width="108.34737"
+     id="rect4183"
+     style="opacity:1;display:inline;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:7.11;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0.822909 0 0 0.933363 -161.707 -293.612)" />
 </svg>
